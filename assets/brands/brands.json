@@ -1,0 +1,150 @@
+[
+    {
+      "id": "1",
+      "brand": "Kotak",
+      "logo": "assets/images/logo1.png",
+      "description": "Kotak Mahindra Bank",
+      "category": "Banking",
+      "categoryLogo": "assets/images/bankingLogo.jpg",
+      "products": [
+        {
+          "productId": "12345",
+          "productName": "Kotak Net Banking"
+        },
+        {
+          "productId": "67890",
+          "productName": "Kotak Application"
+        }
+      ]
+    },
+    {
+        "id": "2",
+        "brand": "Nescafe",
+        "logo": "assets/images/logo2.png",
+        "description": "What a coffee!",
+        "category": "Beverages",
+        "categoryLogo": "assets/images/beverageLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Nescafe Coffee"
+          },
+          {
+            "productId": "67890",
+            "productName": "Nescafe Tea"
+          }
+        ]
+      },
+      { 
+        "id": "3",
+        "brand": "Bisleri",
+        "logo": "assets/images/logo3.png",
+        "description": "Peeyo Bisleri",
+        "category": "Beverages",
+        "categoryLogo": "assets/images/beverageLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Bisleri Water"
+          },
+          {
+            "productId": "67890",
+            "productName": "Bisleri Soda"
+          },
+          {
+            "productId": "54321",
+            "productName": "Bisleri Lemonade"
+          }
+        ]
+      },
+      { 
+        "id": "4",
+        "brand": "Horlicks",
+        "logo": "assets/images/logo4.jpg",
+        "description": "Taller, Stronger and Sharper",
+        "category": "Health",
+        "categoryLogo": "assets/images/healthLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Horlicks Drink"
+          },
+          {
+            "productId": "67890",
+            "productName": "Horlicks Biscuit"
+          }
+        ]
+      },
+      { 
+        "id": "5",
+        "brand": "Gilette",
+        "logo": "assets/images/logo5.jpg",
+        "description": "Man All Products",
+        "category": "Beauty",
+        "categoryLogo": "assets/images/beautyLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Gilette Blade"
+          },
+          {
+            "productId": "67890",
+            "productName": "Gilette Razor"
+          }
+        ]
+      },
+      { 
+        "id": "6",
+        "brand": "Hdfc",
+        "logo": "assets/images/logo6.jpg",
+        "description": "Get a loan",
+        "category": "Banking",
+        "categoryLogo": "assets/images/bankingLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Hdfc Banking"
+          },
+          {
+            "productId": "67890",
+            "productName": "Hdfc Network"
+          }
+        ]
+      },
+      { 
+        "id": "7",
+        "brand": "Nature",
+        "logo": "assets/images/logo7.jpg",
+        "description": "Natural Products",
+        "category": "Beauty",
+        "categoryLogo": "assets/images/beautyLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Nature Cream"
+          },
+          {
+            "productId": "67890",
+            "productName": "Nature Powder"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "brand": "Pintola",
+        "logo": "assets/images/logo8.jpg",
+        "description": "Spread Healthy, Eat Healthy",
+        "category": "Health",
+        "categoryLogo": "assets/images/healthLogo.jpg",
+        "products": [
+          {
+            "productId": "12345",
+            "productName": "Pintola Peanut Butter"
+          },
+          {
+            "productId": "67890",
+            "productName": "Pintola Spread Cream"
+          }
+        ]
+      }
+  ]
